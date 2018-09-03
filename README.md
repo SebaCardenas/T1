@@ -1,5 +1,5 @@
-Para poder compilar el archivo, se debe estar en la altura T1/Programa para poder hacer make
-después para ejecurtar el archivo, se debe introducir el siguiente comando
+tn T1 se puede hacer make
+para ejecurtar el archivo, se debe introducir el siguiente comando
 
 ./scheduler tests/test.txt output.csv [quantum] 
 
